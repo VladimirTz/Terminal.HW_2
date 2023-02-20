@@ -1,4 +1,5 @@
-# Terminal.HW_2
+# Git-Bash
+## Terminal.HW_2 [Termial. HW_2.txt](<https://github.com/VladimirTz/Terminal.HW_2/blob/main/Termial.%20HW_2.txt>)
 
 1. Сделать папку dir_1
  2. Зайти в папку dir_1
